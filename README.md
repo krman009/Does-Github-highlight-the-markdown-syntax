@@ -1,5 +1,5 @@
-Does Github highlight the markdown syntax
-=======================================
+Does Github highlight the markdown syntax?
+-----------------------------------------
 
 
 
@@ -14,7 +14,7 @@ Does Github highlight the markdown syntax
 
 > Blockquote
 
-`inline-block code` **something** *something else*
+`inline-block code` **strong tag** *em tag*
 
 [Link](https://github.com "Github")
 ```
