@@ -23,7 +23,7 @@ So, yes with `md` not with `markdown`...
 + Ok see this
 
 ```md
-Ignore `\`.
+Ignore \.
 This will not work,
 \```markdown
  ```\
