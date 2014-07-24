@@ -26,8 +26,10 @@ So, yes with `md` not with `markdown`...
 Ignore \.
 This will not work,
 \```markdown
+ ---markdown code here---
  ```\
 This will work,
 \```md
+ ---markdown code here---
  ```\
 ```
