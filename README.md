@@ -18,9 +18,8 @@ Does Github highlight the markdown syntax?
 
 Yes, Github supports markdown syntax highlighting via `md` not `markdown`.
 
-> What???  
-
-+ Ok see this
+**What???**  
+*Ok see this*
 
 ```md
 Ignore \.
