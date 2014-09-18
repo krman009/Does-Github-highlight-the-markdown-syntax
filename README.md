@@ -16,7 +16,7 @@ Does Github highlight the markdown syntax?
 [Link](https://github.com "Github")
 ```
 
-So, yes with `md` not with `markdown`...
+Yes, Github supports markdown syntax highlighting via `md` not `markdown`.
 
 > What???  
 
